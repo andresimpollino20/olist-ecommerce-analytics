@@ -1,6 +1,8 @@
 # Olist E-commerce Analytics
 
-[Versión en español](README_ES.md)
+## Download the Power BI Dashboard
+
+[Download the complete Power BI file (.pbix)](https://github.com/andresimpollino20/olist-ecommerce-analytics/releases/latest/download/Olist_Ecommerce_Analytics.pbix)
 
 End-to-end business intelligence project built with the public Brazilian Olist e-commerce dataset. The project covers CSV ingestion with Python, relational modeling in SQL Server, business metrics with DAX, and an interactive Power BI dashboard.
 
